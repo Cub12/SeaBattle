@@ -1,0 +1,6 @@
+D:\Programming\Rider\OOP\SeaBattle\bin\Debug\SeaBattle.exe
+D:\Programming\Rider\OOP\SeaBattle\bin\Debug\SeaBattle.pdb
+D:\Programming\Rider\OOP\SeaBattle\obj\Debug\SeaBattle.csproj.AssemblyReference.cache
+D:\Programming\Rider\OOP\SeaBattle\obj\Debug\SeaBattle.csproj.CoreCompileInputs.cache
+D:\Programming\Rider\OOP\SeaBattle\obj\Debug\SeaBattle.exe
+D:\Programming\Rider\OOP\SeaBattle\obj\Debug\SeaBattle.pdb
